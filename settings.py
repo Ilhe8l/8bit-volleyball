@@ -1,4 +1,5 @@
 # configurações de variáveis globais, constantes, etc.
+import pygame
 
 game_title = "8-bit Volleyball"
 height = 900
@@ -19,3 +20,19 @@ player_speed = 5
 
 ball_size = (30, 30)
 ball_speed = 3
+
+player1_keys = {
+    'up': pygame.K_w,
+    'down': pygame.K_s,
+    'left': pygame.K_a,
+    'right': pygame.K_d,
+    'jump': pygame.K_SPACE
+}
+
+player2_keys = {
+    'up': pygame.K_UP,
+    'down': pygame.K_DOWN,
+    'left': pygame.K_LEFT,
+    'right': pygame.K_RIGHT,
+    'jump': pygame.K_RETURN
+}
