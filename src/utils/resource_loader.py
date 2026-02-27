@@ -1,0 +1,1 @@
+# código para lidar com o carregamento de recursos (imagens, sons, etc.)

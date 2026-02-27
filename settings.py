@@ -1,0 +1,1 @@
+# configurações de variáveis globais, constantes, etc.
