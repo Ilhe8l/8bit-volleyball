@@ -1,0 +1,1 @@
+# estado base, basicamente contém métodos (funções) que são comuns a todos os estados

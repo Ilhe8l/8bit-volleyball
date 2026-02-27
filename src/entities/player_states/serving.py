@@ -1,0 +1,1 @@
+# estado do player sacando
